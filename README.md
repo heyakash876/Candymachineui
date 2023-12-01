@@ -1,6 +1,6 @@
 # Module3-Candymachine
 
-Candy Machine ui is used to mint NFTs
+Minting NFT's using the Candy Machine UI provided by metaplex
 
 ## Description
 
