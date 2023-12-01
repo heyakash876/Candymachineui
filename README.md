@@ -4,21 +4,9 @@ Candy Machine ui is used to mint NFTs
 
 ## Description
 
-This guide will walk you through the steps to set up the user interface (UI) for your Candy Machine, allowing users to mint NFTs using the SPL token you've created. The UI will use the SPL token as the payment method, and users will be able to mint NFTs by connecting their Phantom wallet.
+In this project we set up the user interface (UI) for our Candy Machine, allowing users to mint NFTs using the SPL token you've created. The UI will use the SPL token as the payment method, and users will be able to mint NFTs by connecting their Phantom wallet.
 
-Before you begin, make sure you have the following:
 
-1. A Candy Machine configured with the following details in its `config.json` file:
-   - `price`: 0.01
-   - `number`: 10
-   - `symbol`: "NB"
-   - `sellerFeeBasisPoints`: 500
-   - `splTokenAccount`: "address"
-   - `splToken`: "address"
-   - `goLiveDate`: "2022-07-24T00:00:00Z"
-   - `creators`: an array with creator details
-
-2. A Phantom wallet to act as the minting wallet.
 
 ## Steps
 
@@ -51,6 +39,4 @@ Test the entire setup by transferring or minting your SPL token to one of your P
 Akash
 vermakash876@gmail.com
 
-- for creating SPLtoken I referred the [The SPL token Program by MetaCrafters](https://github.com/Metacrafters/Module2-create-spl-token-js.git)
-- Make sure that the addresses and token details in the `config.json` match the addresses and tokens you've created.
-- Ensure that your UI provides clear instructions for users on how to connect their Phantom wallets and mint NFTs.
+
