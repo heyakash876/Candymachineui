@@ -4,7 +4,7 @@
     "symbol": "NB",
     "sellerFeeBasisPoints": 500,
     "gatekeeper": null,
-    "solTreasuryAccount": null,
+    "solTreasuryAccount": <wallet address >,
     "splTokenAccount": "4zzEoL9Sp9VVKBtVMsZbZprwrBw9Hthij1954Dr8duSH",
     "splToken": "8hqKYtBPGRoSnMBgGB8phYAr8WXSXmFBAFmcf33i1rmn",
     "goLiveDate": "2022-07-24T00:00:00Z",
