@@ -1,4 +1,4 @@
-# Module3-Candymachine
+# Candymachine
 
 Minting NFT's using the Candy Machine UI provided by metaplex
 
